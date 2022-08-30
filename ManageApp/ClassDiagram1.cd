@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ManageApp.ConectionSettings">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AiEABAAAkCAACBCAAADAgKACAABYAAEAASIACQAEASg=</HashCode>
+      <FileName>ConectionSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManageApp.MainForm">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ManageApp.MainForm.SocketPacket" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="ManageApp.MainForm.DelegateT" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="ManageApp.MainForm.DelegateC" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>RIQQQQkIAGAAAgBAGGSIAEhiAAAAANAEAAAAAIAAAAE=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManageApp.MyListViewEx">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyListViewEx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManageApp.Program">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManageApp.Properties.Resources">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAABEAAAAQAAIAAAAiYCAgAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManageApp.Properties.Settings">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
